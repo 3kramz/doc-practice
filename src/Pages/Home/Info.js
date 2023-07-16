@@ -16,7 +16,7 @@ const info = [
         title:"Visit our location",
         description:"Brooklyn, NY 10003 USA",
         icon:Location,
-        background:"bg-accent"
+        background:"bg-neutral"
     },  
     {
         title:"Contact us now",
