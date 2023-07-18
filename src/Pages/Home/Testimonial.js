@@ -10,17 +10,17 @@ const Testimonial = () => {
                     <h1 className='text-secondary text-xl'>Testimonial</h1>
                     <p className='text-3xl'>What Our Patients Says</p>
                 </div>
-                <img className='w-[192px]' src={quote} alt='' />
+                <img className='w-24 lg:w-48' src={quote} alt='' />
             </div>
-<div className='flex justify-around items-center'>
+            <div className='flex justify-around items-center'>
 
 
-            <TestimonialCard />
+                <TestimonialCard />
 
-            <TestimonialCard />
+                <TestimonialCard />
 
-            <TestimonialCard />
-</div>
+                <TestimonialCard />
+            </div>
 
 
 
