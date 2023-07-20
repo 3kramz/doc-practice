@@ -9,7 +9,7 @@ const ContactUs = () => {
             }
           }
           className='text-center py-10'>
-            <h2 className='text-primary'>Contact Us</h2>
+            <h2 className='text-secondary text-lg font-semibold'>Contact Us</h2>
             <div className='my-5'>
                 <input type="text" placeholder="Email Address" className="input input-bordered w-full max-w-xs" />
             </div>
